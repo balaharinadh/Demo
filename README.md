@@ -30,9 +30,9 @@ List is
 * Sleep
 * Do it again
 ### Another List Of Fruit
-2. Peach
+1. Peach
 2. Mango
-  5. Apple
-  1. Banana
+  1. Apple
+  6. Banana
 7. Papaya
 8. Grapes
