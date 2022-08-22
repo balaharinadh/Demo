@@ -33,6 +33,6 @@ List is
 2. Peach
 2. Mango
   5. Apple
-  6. Banana
+  \1. Banana
 7. Papaya
 8. Grapes
