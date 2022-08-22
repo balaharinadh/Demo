@@ -25,7 +25,7 @@ List is
 * PRAY
 * LOVE
  * Find Other
- * Convince other of * Worth *
+ * Convince other of **Worth**
  * Hope
 * Sleep
 * Do it again
